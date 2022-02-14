@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Apr 15 10:31:01 2017
-cccccccc
+cccccccc dddd
 @author: Reddy
 """
 def parrot(voltage, state='a stiff', action='voom', type='Norwegian Blue'):
