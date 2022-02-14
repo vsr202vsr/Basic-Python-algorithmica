@@ -12,7 +12,7 @@ class ClassVsObject:
     print("hello")
     if __name__ == "__main__":
         print("private")
-        d1= Dummy(10,20)
+        d1= Dummy(100,7)
         d2= Dummy(30,40)
         d3= Dummy(1,5)
         print("hello")
